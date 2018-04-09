@@ -8,4 +8,4 @@
 3. Run `npm run dev`
 
 **Hosted on Heroku**
-Optionally the app can be tested at [heroku app]: https://fast-ravine-47845.herokuapp.com/
+> Optionally the app can be tested at [heroku app]: https://fast-ravine-47845.herokuapp.com/
