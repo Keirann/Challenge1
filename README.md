@@ -7,7 +7,8 @@
 
 1. Clone the Repo `git clone https://github.com/Keirann/Challenge1.git`
 2. Change the directory to downloaded Repo and Run `npm install`. (This shall install the dependencies)
-3. Run `npm run dev`
+3. Run `npm run dev` 
+4. Application runs at http://localhost:3000/ 
 
 **Hosted on Heroku**
 > Optionally the app can be tested at [heroku app]: https://fast-ravine-47845.herokuapp.com/
